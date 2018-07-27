@@ -1,0 +1,54 @@
+.top_bar
+{
+	background:#3D6AA2; padding:5px 0;
+}
+.bottom_bar
+{
+	background:#3D6AA2; padding:5px 0;
+}
+.bottom_bar b
+{
+	color:#fff;
+}
+.social_icons
+{
+	margin-right:5px;
+}
+.contact_info
+{
+	color:#fff;
+}
+.my_menu
+{
+	margin-top:27px;
+}
+.my_menu .navbar-default
+{
+	background:none;
+	border:none;
+}
+.my_menu .navbar-nav .active a, .my_menu .navbar-nav .active a:hover
+{
+	background:#3D6AA2;
+	color:#fff;
+}
+.my_menu .navbar-nav li a:hover
+{
+	background:#3D6AA2;
+	color:#fff;
+}
+.our_courses h3
+{
+	color:#fff;
+}
+@media (max-width:1200px)
+	{
+		.my_menu .pull-right{float:none !important;}
+	}
+	
+.contact
+{
+	background:#3D6AA2;
+	color:#fff;
+}
+	
